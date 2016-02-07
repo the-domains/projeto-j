@@ -1,0 +1,28 @@
+name: Projeto J
+favicon: null
+layout_spectrum: 0.7208698824979365
+typography_spectrum: 0.28345681563951075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6328781533520669
+  lightness: 0.5771380562800914
+  saturation: 0.13103557052090764
+  rhythmicContrast: 0.4213524784427136
+purpose: []
